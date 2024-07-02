@@ -10,8 +10,6 @@ This project predicts Canada's per capita income for the year 2020 using a simpl
 - Python 3.x
 - Jupyter Notebook
 - Libraries: numpy, pandas, matplotlib, scikit-learn
-  <br>
-
-  You can customize this description further based on your specific project details and any additional features or requirements.
+  
 
 
